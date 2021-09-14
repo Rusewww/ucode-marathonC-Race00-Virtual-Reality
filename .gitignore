@@ -1,52 +1,17 @@
-# Prerequisites
-*.d
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
+dist/
+/.idea
+.idea
+./.idea
+./idea
+cmake-build-debug/
+ucode-marathonC-Race00-Virtual-Reality/main_pyramid.c
+result
+a.out
 *.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+CMakeLists.txt
+./.DS_Store
+.DS_Store
+._DS_Store
+main_cube.c
+mx_cube
+mx_pyramid
